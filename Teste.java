@@ -11,7 +11,7 @@ public class teste {
 
 	    Scanner sc = new Scanner(System.in);
 	   
-	    System.out.println(" Escreve dois numeros");
+	    System.out.println(" Escreve dois numeros alterado");
 	    
 	    int a = sc.nextInt();
 	    
